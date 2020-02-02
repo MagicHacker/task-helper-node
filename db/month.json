@@ -1,0 +1,46 @@
+{
+  "lists": [
+    {
+      "month": "上月",
+      "countCharts": {
+        "exceptedHours": [4, 7, 6, 4, 3, 10, 8],
+        "actualHours": [6, 9, 8, 6, 5, 12, 10]
+      },
+      "taskLists": [
+        {
+          "taskName": "项目排期",
+          "actualHours": "28"
+        },
+        {
+          "taskName": "构建登录页",
+          "actualHours": "32"
+        },
+        {
+          "taskName": "编写逻辑",
+          "actualHours": "20"
+        }
+      ]
+    },
+    {
+      "month": "本月",
+      "countCharts": {
+        "exceptedHours": [2, 5, 4, 2, 1, 8, 6],
+        "actualHours": [6, 9, 8, 6, 5, 12, 10]
+      },
+      "taskLists": [
+        {
+          "taskName": "项目排期",
+          "actualHours": "20"
+        },
+        {
+          "taskName": "构建登录页",
+          "actualHours": "32"
+        },
+        {
+          "taskName": "编写逻辑",
+          "actualHours": "16"
+        }
+      ]
+    }
+  ]
+}

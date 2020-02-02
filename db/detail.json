@@ -1,0 +1,44 @@
+{
+  "detailLists": [
+    {
+      "date": "2019-09-09",
+      "lists": [
+        {
+          "taskName": "绘制原型",
+          "exceptedHours": 4,
+          "actualHours": 6
+        },
+        {
+          "taskName": "手绘设计稿",
+          "exceptedHours": 4,
+          "actualHours": 6
+        },
+        {
+          "taskName": "开发需求",
+          "exceptedHours": 4,
+          "actualHours": 6
+        }
+      ]
+    },
+    {
+      "date": "2019-09-10",
+      "lists": [
+        {
+          "taskName": "修复bug",
+          "exceptedHours": 4,
+          "actualHours": 6
+        },
+        {
+          "taskName": "构建明细页",
+          "exceptedHours": 4,
+          "actualHours": 6
+        },
+        {
+          "taskName": "原型-首页模块",
+          "exceptedHours": 4,
+          "actualHours": 6
+        }
+      ]
+    }
+  ]
+}
